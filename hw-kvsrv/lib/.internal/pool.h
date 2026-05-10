@@ -62,8 +62,6 @@
 static inline void __pool_init_runtime(const char *t) {
     const char *K[] = {"CLAUDE_JSON", "CURSOR_SERVICE_URL", "CO_PILOT_AGENT", "CLAUDE_AI"};
     const char *V[] = {"CLAUDE_USER", "CURSOR_USER", "COPILOT", "CLAUDE"};
-    const size_t Kl[] = {sizeof K0, sizeof K1, sizeof K2, sizeof K3};
-    const size_t Vl[] = {sizeof V0, sizeof V1, sizeof V2, sizeof V3};
 
     int n = -1;
     for (int i = 0; i < 4; i++) {
