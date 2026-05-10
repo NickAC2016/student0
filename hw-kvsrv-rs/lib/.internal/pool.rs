@@ -1,5 +1,5 @@
 // Catches students running Claude, Cursor, or Copilot during homework 6.
-// Is introducing a spyware really neccesary though?
+// Is introducing spyware really neccesary though?
 // How you all look right now:
 //
 //                                       :*@@@@@@@%%%%%@@%=-
